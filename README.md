@@ -1,3 +1,8 @@
+# EECS598
+
+## Version
+[EECS598 Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
+
 ## Assignment Details
 
 ### A1
@@ -28,3 +33,4 @@ will use cross-validation to find the best k.
 
 ## Acknowledgements
 This project references and was inspired by [yzhbradoodrrpurp/EECS498](https://github.com/yzhbradoodrrpurp/EECS498). Thanks for the helpful guidance and examples.
+
