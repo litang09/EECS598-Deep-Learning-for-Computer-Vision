@@ -1,15 +1,10 @@
-# EECS598
-
-## Version
-[EECS598 Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
-
 ## Assignment Details
 
 ### A1
 
 - [PyTorch101](Assignment/A1/pytorch101.ipynb): The first assignment of A1 is a coarse introduction to PyTorch which includes the basic utilization of it. More specifically, it will get you familiar with common Pytorch tensor operations like  `torch.tensor` , `torch.arange` , `torch.reshape` , `torch.argmax` ,  `torch.zeros` , `torch.randn` and so on. Aside from that, it also demonstrates how to use **broadcast mechanism** to write vectorized code for GPU to accelerate.
 
-- [kNN](Assignment/A1/kNN.ipynb): In this assignment, you will implement kNN , which is a lazy algorithm that learns no parameter, then you
+- [kNN](Assignment/A1/knn.ipynb): In this assignment, you will implement kNN , which is a lazy algorithm that learns no parameter, then you
 will use cross-validation to find the best k.
 
 ### A2
@@ -29,8 +24,7 @@ will use cross-validation to find the best k.
 
 - [Recurrent Neural Network](Assignment/A5/rnn_lstm_captioning.ipynb): In this assignment, you will implement Vanilla RNN, LSTM, and Attention LSTM to generate natural language captions for images using the COCO Captions dataset.
   
-- [Transformer](Assignment/A5/Transformer.ipynb): Implement a simplified Encoder-Decoder Transformer for sequence-to-sequence tasks, demonstrated on fixed-length arithmetic expressions. The assignment also includes visualizations to help understand attention mechanisms and trains the model end-to-end.
+- [Transformer](Assignment/A5/Transformers.ipynb): Implement a simplified Encoder-Decoder Transformer for sequence-to-sequence tasks, demonstrated on fixed-length arithmetic expressions. The assignment also includes visualizations to help understand attention mechanisms and trains the model end-to-end.
 
 ## Acknowledgements
 This project references and was inspired by [yzhbradoodrrpurp/EECS498](https://github.com/yzhbradoodrrpurp/EECS498). Thanks for the helpful guidance and examples.
-
